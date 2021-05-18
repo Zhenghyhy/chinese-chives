@@ -53,9 +53,14 @@
 
 有老韭菜看见的话就点个星星吧，让我知道有韭菜兄弟们陪着我不孤单！
 
-如果有人想赞助我早日买台服务器，欢迎向我的钱包地址打1个U
+如果有人想赞助我早日买台服务器，欢迎向我的钱包地址打1个U。当然作为回报，我是不会给你转韭菜币的！！或者可以考虑把赞助人的钱包后8位写成韭菜名单，做成网站的第三个功能！妙哉妙哉
+
 币安链 BEP20/BSC: 0x93035188E94E474f2c3a1a81ee39c368740C693c
-![image](https://user-images.githubusercontent.com/33787471/118697885-5c404400-b842-11eb-866a-e4197974991a.png)
+
 
 波场 TRC20：TCpqo5XDy7nz4XubHkTWwuGTpimC9kUCYo
+
+
+![image](https://user-images.githubusercontent.com/33787471/118697885-5c404400-b842-11eb-866a-e4197974991a.png)
+
 ![image](https://user-images.githubusercontent.com/33787471/118697831-4e8abe80-b842-11eb-8d8b-4827b39c65f1.png)
