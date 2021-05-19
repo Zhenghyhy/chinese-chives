@@ -19,7 +19,8 @@
 
 查看连接：https://bscscan.com/token/0xcecdeaf8cc5f571fd8a0d09cdb2b98dcf9264cc7
 
-发行数量：1411778724 （我才没像其他的土狗币非得发个几千亿上万亿的）
+### 发行数量：1411778724 （我才没像其他的土狗币非得发个几千亿上万亿的）
+
 ![image](https://user-images.githubusercontent.com/33787471/118744541-18bbf900-b887-11eb-98bd-41b1d32d3951.png)
 
 
