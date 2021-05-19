@@ -20,6 +20,8 @@
 查看连接：https://bscscan.com/token/0xcecdeaf8cc5f571fd8a0d09cdb2b98dcf9264cc7
 
 发行数量：1411778724 （我才没像其他的土狗币非得发个几千亿上万亿的）
+![image](https://user-images.githubusercontent.com/33787471/118744541-18bbf900-b887-11eb-98bd-41b1d32d3951.png)
+
 
 官网：https://chinese-chives.com （当然你现在打不开，创始人也就是我现在没钱买服务器，等我下个月发工资了再说吧）
 
@@ -54,10 +56,9 @@
 波场 TRC20：TCpqo5XDy7nz4XubHkTWwuGTpimC9kUCYo
 
 
-![image](https://user-images.githubusercontent.com/33787471/118697885-5c404400-b842-11eb-866a-e4197974991a.png)
+![image](https://user-images.githubusercontent.com/33787471/118744409-e3171000-b886-11eb-81a4-bae19e10d503.png)
 
-![image](https://user-images.githubusercontent.com/33787471/118697831-4e8abe80-b842-11eb-8d8b-4827b39c65f1.png)
-
+![image](https://user-images.githubusercontent.com/33787471/118744431-eb6f4b00-b886-11eb-978c-a95536fb6846.png)
 
 ### 大记事
 
